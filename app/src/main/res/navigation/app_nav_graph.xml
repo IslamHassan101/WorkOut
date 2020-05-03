@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/app_nav_graph"
+    app:startDestination="@id/fragmentHome">
+
+    <fragment
+        android:id="@+id/fragmentHome"
+        android:name="com.example.workout.FragmentHome"
+        android:label="fragment_home"
+        tools:layout="@layout/fragment_home" />
+    <fragment
+        android:id="@+id/fragmentCalender"
+        android:name="com.example.workout.FragmentCalender"
+        android:label="fragment_calender"
+        tools:layout="@layout/fragment_calender" />
+    <fragment
+        android:id="@+id/fragmentAdd"
+        android:name="com.example.workout.FragmentAdd"
+        android:label="fragment_add"
+        tools:layout="@layout/fragment_add" />
+    <fragment
+        android:id="@+id/fragmentAnalysis"
+        android:name="com.example.workout.FragmentAnalysis"
+        android:label="fragment_analysis"
+        tools:layout="@layout/fragment_analysis" />
+    <fragment
+        android:id="@+id/fragmentProfile"
+        android:name="com.example.workout.FragmentProfile"
+        android:label="fragment_profile"
+        tools:layout="@layout/fragment_profile" />
+    <fragment
+        android:id="@+id/fragmentLogin"
+        android:name="com.example.workout.FragmentLogin"
+        android:label="fragment_login"
+        tools:layout="@layout/fragment_login" />
+    <fragment
+        android:id="@+id/fragmentSignUp"
+        android:name="com.example.workout.FragmentSignUp"
+        android:label="fragment_sign_up"
+        tools:layout="@layout/fragment_sign_up" />
+    <fragment
+        android:id="@+id/fragmentGetStarted"
+        android:name="com.example.workout.FragmentGetStarted"
+        android:label="fragment_get_started"
+        tools:layout="@layout/fragment_get_started" />
+</navigation>

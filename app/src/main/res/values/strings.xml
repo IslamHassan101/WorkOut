@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">WorkOut</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="daily_workout_app">daily workout App</string>
+    <string name="reshape_your_body_always_live_fit_a_healthy_life_style">Reshape your body.Always live fit.A healthy life Style.</string>
+    <string name="get_started_naw">Get Started naw!</string>
+    <string name="welcome_back">Welcome back!</string>
+    <string name="sign_up">Sign up</string>
+    <string name="don_t_have_an_account">Don\'t have an account?</string>
+    <string name="google">Google</string>
+    <string name="facebook">Facebook</string>
+    <string name="or_connect_using">Or connect using</string>
+    <string name="log_in">LOG IN</string>
+    <string name="forgot_password">Forgot password?</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="log_in_your_existant_account_of_q_allure">Log in your existant account of Q Allure</string>
+    <string name="create">Create</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="password">Password</string>
+</resources>
